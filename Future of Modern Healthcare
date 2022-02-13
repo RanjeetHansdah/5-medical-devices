@@ -1,0 +1,50 @@
+\documentclass{article}[A4,12pt]
+\usepackage{graphicx}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+
+
+
+\begin{document}
+
+
+
+\begin{centering}
+\huge
+\title\bf{ NIT RAIPUR}\\~\\
+
+
+\includegraphics[scale=0.5]{National_Institute_of_Technology,_Raipur_Logo} \\~\\
+
+
+\begin{LARGE}
+\bf The Future of Modern Healthcare\\~\\
+\end{LARGE}
+
+\end{centering}
+
+\large By: Ranjeet Hansdah\\
+
+\large Roll.no: 21111045\\
+
+\large Branch: Bio-Medical Engineering\\
+\newpage
+\huge\section{Introduction}
+
+\large Healthcare is slowly entering a period of rapid change,with advancement of new technologies and discoveries as well as innovative combinations of existing technologies.With these digital technology we can transform an unbalanced healthcare systems into a balanced system which also improve the relationship between doctors and patients.This will also provide cheaper,better and more effective solutions for the diseases.Many of the physical and mental tasks that doctors performs today will be automated by hardware,software and combination of both.
+
+\section{Today's Healthcare}
+Computers have greatly improved the healthcare in today's world.New softwares are now used to create and store medical records of different patients instead of keeping the patient's record in papers.This helped doctors to keep all patients records and information in one place and they can access it anytime they want.This electronic medical records will not only be able to store patients information but also it will provide information on remedies and risks instantaneously.And it will also keep track of the medicines needed,purchases and sales,billing in one place.There are also specially designed softwares for automated equipments which are used to treat various disorders and diseases.MRIs,CT scans,ultrasound tests,x-rays and radiation technologies now require computer for their operations.This computerized technologies also brought about laparoscopic surgeries,use of mirco-cameras in procedures such as endoscopy,laser surgeries,DNA research and treatment of premature infants.In hospitals,ICUs are equipped with computerized machines which moniters the health of critically ill patients.
+
+Robots are also slowly being implemented for delivering specimens and in surgeries.These robots helped in overcoming human obstacles by improving eye-hand coordination,improve visualization and helps on creating better working condition for doctors making surgeries that were previously technically difficult or unachieveable,possible.
+
+Telemedicine is another new emerging information technology which used to exchange medical data from one place to another and it allows a patient to connect directly with the doctors froma anywhere
+in the world.In this patients talk with doctors in live videos or patients can send their medical problems in data(in pictures) and send it to doctors and then they can review and diagnos it and then follow-up a treatment at ant later time.Telemedcine saves a lot of time for doctors and also or patients.
+Mobile health is also a new innovation in which applications,sensors,wearable devices and communication networks which monitors patient's vitals and data and gives this data to physicians and they can receive care anyhwere at any time.
+
+\section{Next Future Technologies in Healthcare}
+ There are many new upcoming technologies which are going to be implemented in healthcare.Here are some examples: Artifical Intelligence(AI) has one of the highest potential in healthcare.This AI algorithms are able to mine medical records,design treatment plans or create medicines way faster than  any healthcare industry including medical professionals.Also in several situations it has able to diagnos and identified diseases faster than medical professionals.AI is also used in robots which can act as medical assistants,take lab samples,assist in surgeries,and help in disinfecting hospitals.AI needs more development in the field of healthcare.
+ 
+ Another technology in healthcare is Nanotechnology.Nano-techs which are in the size of 100 nanometres are being made for healthcare purposes like diagnosis and for making nanoscale devices which we can implant in our bodies.This can help in recognizing unique cells and identifying genetic content that might give rise to diseases.This then allows medicines to reach specific damaged cells to cure or repair it without damaging healthy ones.In this technologies in healthcare will continue to develop and new innovations will slowly replace the older ways of giving care. 
+ 
+\end{document}
