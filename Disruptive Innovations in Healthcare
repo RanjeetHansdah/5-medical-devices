@@ -1,0 +1,44 @@
+\documentclass{article}[A4,12pt]
+\usepackage{graphicx}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+
+
+
+\begin{centering}
+\huge
+\title\bf{ NIT RAIPUR}\\~\\
+
+
+\includegraphics[scale=0.5]{National_Institute_of_Technology,_Raipur_Logo} \\~\\
+
+
+\begin{LARGE}
+\bf Disruptive Innovations in Healthcare\\~\\
+\end{LARGE}
+
+\end{centering}
+
+\large By: Ranjeet Hansdah\\
+
+\large Roll.no: 21111045\\
+
+\large Branch: Bio-Medical Engineering\\~\\
+\newpage
+\section*{Introduction}
+Disruptive innovations are those which helps in creating a new market by disrupting the existing markets and displacing  previous technologies.It can be a new product, service or business model.This resulting changes from disruptive innovations has always been positive since it leaves us with better products and services than before.As advancements in technology makes it easier for communication,storage and transfer of data and production while preventing industries from backtracking.These has made many advances in different sectors,notably in healthcare.As in healthcare everyone is a consumer.So here are some examples of disruptive innovations in healthcare.
+
+\section*{1) Electronic Health Recorders}
+Electronic health recorders or EHRs are those which records and tracks a patient health data and medical history in varies devices in the form of consumer devices,wearables and apps.With the help of internet,big data and devices connectivity provides up-to-date information about a patient at their point of care.This EHRs records a patients biometric data like pulse,heart rate etc at any time.The physicians can use the data gathered like patient's medical history and patterns showing any medical condition that may have been overlooked from these wearables  to make treatment decisions.This helps in easing the communication between consumers and healthcare professionals as they are shareable through devices and secure networks.And this will continue to further develop.
+ 
+\section*{2) AI and Machine Learning}
+This new technology is slowly changing how health systems operate and how care is delivered.AI is replacing conventional labor-intensive and time-consuming processes in healthcare with rapid,remotely accessible,and real-time solutions for diagnosis, treatment, and disease prevention.Many new software platforms,application programming interfaces and other digital products are improving the benefits of AI.Some applications of AI in healthcare are clinical workflow management, advanced surgery assistance and medical diagnostics.It also provides automated patient monitoring platform which increases patient safety,reduces medical errors and improve the quality of care and clinical efficiency.This can also manage patient intake and scheduling as well as billing.With the help of this technology it will bring down healthcare costs and let doctors and staff focus on patient cares.
+
+\section*{3) Precision Medicine}
+Every healthcare professionals knows that every patient is not same and in some instances they shouldn't be treated medically like usual.For this Precision medicine was founded as it provides diagnosis, disease treatment and preventative measures based on an individual's environment, lifestyle and genetic makeup.Different environmental and genetic factors are involved in causing particular conditions, and precision medicine can be suggested based on diagnostic an molecular genetic testing.This testing can help doctors treat and even prevent the onset of some severe medical conditions.Precision medicine will help facilitate the preventive health necessary to reduce the time and money spent on treatment and the overall amount of patients who require healthcare in the future.Precision medicine is also known as personalized medicine.Precision medicine offers a tremendous opportunity to shape the future of healthcare.
+
+\section*{Conclusion}
+We will continue to see many new disruptive innovations emerging in healthcare, as they help in making the workflow smooth and efficient.And healthcare professionals will be leading this, hence the technology and the professionals together will make the current world a better place. 
+\end{document}
